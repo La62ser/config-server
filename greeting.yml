@@ -1,8 +1,8 @@
 demo:
   greeting: Hello
   greetings:
-    ZH-CN: 你好
-    CN: 你好
-    EN: Hello
+    ZH-CN: 你好啊！
+    CN: 你好啊！
+    EN: Hello guys!
     ES: Hola
     DE: Hallo
