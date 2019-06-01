@@ -1,3 +1,4 @@
 demo:
-  u1: draco
-  u2: Jack
+  users:
+    ZH-CN: 刘先生
+    EN: Mr. Liu
