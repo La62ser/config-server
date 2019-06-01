@@ -2,5 +2,4 @@ demo:
   greetings:
     ZH-CN: 你好
     EN: Hello
-    ES: Hola
-    DE: Hallo
+    EN-US: Hello
